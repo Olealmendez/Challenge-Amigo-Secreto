@@ -1,4 +1,5 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
+// El principal objetivo de este desafío es fortalecer habilidades en lógica de programación. Éste desafío se planteó en el marco del curso de candidatos para el programa Oracle Next Education.de Alura-Latam y Oracle, grupo 9-2025.
+
 // Array para guardar amigos
 let amigos = [];
 
